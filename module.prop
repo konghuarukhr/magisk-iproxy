@@ -1,7 +1,7 @@
-id=template
-name=Template Module
-version=v1
-versionCode=1
-author=topjohnwu
-description=A short description
+id=iproxy
+name=IProxy
+version=v0.1
+versionCode=20180415
+author=Dustin Zheng <konghuarukhr@163.com>
+description=IP Proxy
 minMagisk=1500
